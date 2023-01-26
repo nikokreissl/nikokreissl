@@ -6,5 +6,5 @@ I'm currently taking part @ neuefische Web Development Bootcamp :computer: :fish
 
 Used to work as Project and Product Manager on Software Development, now switching side to become a developer myself! :rocket:
 
-Love to play and watch football :soccer:, seeing the world :earth_africa: and playing video games :video_game:.
+I love playing and watching football :soccer:, seeing the world :earth_africa: and playing video games :video_game:.
 
