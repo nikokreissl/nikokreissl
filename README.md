@@ -8,3 +8,16 @@ Used to work as Project and Product Manager on Software Development, now switchi
 
 I love playing and watching football :soccer:, seeing the world :earth_africa: and playing video games :video_game:.
 
+#### Skills :wrench:
+- HTML 
+- CSS 
+
+#### Skills in progress :bulb:
+- Git
+- JavaScript
+- React
+- Next.js
+- mongodb
+
+---
+![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikokreissl&theme=vue-dark&show_icons=true&hide_rank=true)
