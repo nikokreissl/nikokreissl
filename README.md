@@ -11,13 +11,10 @@ I love playing and watching football :soccer:, seeing the world :earth_africa: a
 #### Skills :wrench:
 - HTML 
 - CSS 
-
-#### Skills in progress :bulb:
 - Git
 - JavaScript
 - React
 - Next.js
-- mongodb
 
 ---
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikokreissl&theme=vue-dark&show_icons=true&hide_rank=true)
