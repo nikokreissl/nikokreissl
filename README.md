@@ -2,7 +2,7 @@
 
 ### Nice to see you on my profile!
 
-I'm currently taking part @ neuefische Web Development Bootcamp :computer: :fish: :sunglasses:.
+Just took part @ neuefische Web Development Bootcamp :computer: :fish: :sunglasses:.
 
 Used to work as Project and Product Manager on Software Development, now switching side to become a developer myself! :rocket:
 
@@ -15,6 +15,10 @@ I love playing and watching football :soccer:, seeing the world :earth_africa: a
 - JavaScript
 - React
 - Next.js
+
+#### Skills in progress ⌛
+- TypeScript
+- Angular
 
 ---
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikokreissl&theme=vue-dark&show_icons=true&hide_rank=true)
