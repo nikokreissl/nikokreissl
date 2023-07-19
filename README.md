@@ -15,7 +15,7 @@ I love playing and watching football :soccer:, seeing the world :earth_africa: a
 - JavaScript
 - React
 - Next.js
-- - TypeScript
+- TypeScript
 
 #### Skills in progress ⌛
 - php
