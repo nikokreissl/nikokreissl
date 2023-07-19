@@ -15,10 +15,10 @@ I love playing and watching football :soccer:, seeing the world :earth_africa: a
 - JavaScript
 - React
 - Next.js
+- - TypeScript
 
 #### Skills in progress ⌛
-- TypeScript
-- Angular
+- php
 
 ---
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikokreissl&theme=vue-dark&show_icons=true&hide_rank=true)
